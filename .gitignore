@@ -1,0 +1,15 @@
+node_modules
+
+openssl.cnf
+opensslhelp.txt
+
+# stuff that this creates/uses
+files.json
+about*.json
+*.json
+knowledge
+
+# yeah but u need these
+!about-template.json
+!package.json
+!package-lock.json
